@@ -32,8 +32,6 @@ public class AOPInterceptors {
 	if (result == null)
 		user.setEmail("mallionnet@gmail.com");
 	
-	System.out.println("******");
-
-   }
+	   }
 
 }
